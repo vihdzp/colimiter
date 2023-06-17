@@ -2,6 +2,8 @@
 
 We've all used a [limiter](https://en.wikipedia.org/wiki/Limiter) once in our lives. But have you ever seen an **inverse limiter**?
 
+![Colimiter screenshot](https://viiii.neocities.org/images/software/colimiter-screenshot.png)
+
 Colimiter will only let a signal through if it exceeds a specified peak. This check is done sample by sample.
 
 - At low levels, this can create a subtle tape hiss effect. 
