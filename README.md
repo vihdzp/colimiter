@@ -16,3 +16,7 @@ For best results, try using Colimiter on a highly dynamic signal. You can also t
 Colimiter is licensed under the [GNU General Public License version 3](https://www.gnu.org/licenses/gpl-3.0.en.html). 
 
 The Colimiter logo is licensed under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## Credits
+
+I came up with this dumb idea in a dream.
